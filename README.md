@@ -5,7 +5,7 @@ Repositório de dados e códigos do artigo acadêmico que investiga as fontes de
 
 Scripts e dados do artigo acadêmico que investiga as fontes de dados utilizadas por veículos jornalísticos goianos na produção de reportagens.
 
-## 📋 Sobre a pesquisa
+## Sobre a pesquisa
 
 Este estudo analisou **600 matérias** de três veículos de comunicação de Goiás:
 - **G1 Goiás** (200 matérias)
@@ -21,7 +21,7 @@ O objetivo foi mapear quais instituições, órgãos e entidades fornecem os dad
 - **Órgãos federais** concentram 22,4% das fontes citadas
 - Forte dependência de fontes federais, com subutilização de fontes locais como o **IMB** (Instituto Mauro Borges)
 
-## 🛠️ Metodologia
+## Metodologia
 
 A classificação das matérias seguiu o **nível 5 da matriz de Mancini e Vasconcellos (2016)**, que identifica matérias que utilizam dados de forma ilustrativa.
 
@@ -34,7 +34,7 @@ O sistema extrai três elementos de cada matéria:
 2. Indicador social mencionado
 3. Valor citado
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 ├── README.md
@@ -52,7 +52,7 @@ O sistema extrai três elementos de cada matéria:
     └── artigo_fontes_dados_goias.pdf      # Artigo completo
 ```
 
-## 🚀 Como usar
+## Como usar
 
 ### Pré-requisitos
 
@@ -74,7 +74,7 @@ os.environ["GOOGLE_API_KEY"] = "sua-api-key"
 # Execute o notebook classificacao_mancini.ipynb
 ```
 
-## 📊 Resultados
+## Resultados
 
 | Veículo | Total | Com dados | % |
 |---------|-------|-----------|---|
@@ -91,14 +91,14 @@ os.environ["GOOGLE_API_KEY"] = "sua-api-key"
 4. OMS (12 menções)
 5. TSE (11 menções)
 
-## 📚 Referencial teórico
+## Referencial teórico
 
 - MANCINI, L.; VASCONCELLOS, F. **Jornalismo de Dados: conceito e categorias**. Fronteiras - estudos midiáticos, v. 18, n. 1, p. 69-82, 2016.
 - BARDIN, L. **Análise de Conteúdo**. São Paulo: Edições 70, 2011.
 - TRÄSEL, M. **Jornalismo guiado por dados: aproximações entre a identidade jornalística e a cultura hacker**. Estudos em Jornalismo e Mídia, v. 11, n. 1, p. 291-304, 2014.
 - PERUZZO, C. M. K. **Mídia regional e local: aspectos conceituais e tendências**. Comunicação & Sociedade, n. 43, p. 67-84, 2005.
 
-## 👤 Autoria
+## Autoria
 
 **Sofia Souza Costa**  
 Graduanda em Jornalismo - Universidade Federal de Goiás (UFG)
