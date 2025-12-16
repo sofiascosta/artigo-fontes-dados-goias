@@ -103,11 +103,11 @@ os.environ["GOOGLE_API_KEY"] = "sua-api-key"
 **Sofia Souza Costa**  
 Graduanda em Jornalismo - Universidade Federal de Goiás (UFG)
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Os dados coletados são de fontes públicas e foram utilizados para fins acadêmicos.
 
-## 🔗 Citação
+## Citação
 
 Se utilizar este trabalho, por favor cite:
 
